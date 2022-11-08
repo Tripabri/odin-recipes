@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+/* Styling of the general fonts */
+
+h1 {
+    font-size: 160px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Banner like styling for the head */ 
+
+ul, a:link, a:hover, a:visited {
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    text-decoration: none;
+
+}
+/* Formation of list elements */ 
+li {
+    font-size: 80px;
+    text-align: center;
+}
+/* Formation for the steps */ 
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
